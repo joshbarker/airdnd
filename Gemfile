@@ -60,13 +60,10 @@ gem 'chunky_png'
 # Star rating system
 gem 'ratyrate'
 # Geocoding and distance calculation in an easy-to-use API
-gem 'geokit', '~> 1.10.0'
-# Enables easy Google map + overlays creation in Ruby apps 
+
 gem 'gmaps4rails'
 # Stripe Payment
 gem 'stripe'
-
-gem 'underscore-rails', '~> 1.8.3'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
