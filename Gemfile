@@ -66,6 +66,8 @@ gem 'gmaps4rails'
 # Stripe Payment
 gem 'stripe'
 
+gem 'underscore-rails', '~> 1.8.3'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
